@@ -1,0 +1,41 @@
+{
+    "charts": {
+        "wg-easy": {
+            "app_readme": "<P>Puppet OSP Test Catalog</P>",
+            "categories": [
+                "automation"
+            ],
+            "description": "puppet ftw",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://puppetlabs.github.io/puppetserver-helm-chart",
+            "location": "/",
+            "latest_version": "9.5.2",
+            "latest_app_version": "7.17.0",
+            "latest_human_version": "7.17.0",
+            "last_update": "2024-07-30 06:34:21",
+            "name": "puppet-osp",
+            "recommended": false,
+            "title": "WG Easy",
+            "maintainers": [
+                {
+                    "name": "truenas",
+                    "url": "https://www.truenas.com/",
+                    "email": "dev@ixsystems.com"
+                }
+            ],
+            "tags": [
+                "vpn",
+                "wireguard"
+            ],
+            "screenshots": [
+                "https://media.sys.truenas.net/apps/wg-easy/screenshots/screenshot1.png"
+            ],
+            "sources": [
+                "https://github.com/WeeJeWel/wg-easy",
+                "https://github.com/truenas/charts/tree/master/charts/wg-easy"
+            ],
+            "icon_url": "https://media.sys.truenas.net/apps/wg-easy/icons/icon.png"
+        }
+    }
+}
