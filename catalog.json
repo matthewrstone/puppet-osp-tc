@@ -1,6 +1,6 @@
 {
     "charts": {
-        "wg-easy": {
+        "puppet-osp": {
             "app_readme": "<P>Puppet OSP Test Catalog</P>",
             "categories": [
                 "automation"
